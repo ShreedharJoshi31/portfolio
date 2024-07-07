@@ -1,0 +1,49 @@
+.code {
+  counter-reset: line;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  white-space: pre-wrap; /* Ensure text wraps */
+  word-break: break-word;
+}
+
+.line::before {
+  content: counter(line);
+  counter-increment: line;
+  margin-right: 1rem;
+  color: grey;
+}
+
+.descContainer {
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 600px) {
+  .code {
+    font-size: 0.85rem;
+    line-height: 1.5rem;
+  }
+}
+
+.square {
+  color: var(--square-color);
+}
+.curly {
+  color: var(--curly-color);
+  margin-left: 3ch;
+}
+.key {
+  color: var(--key-color);
+  margin-left: 6ch;
+}
+.value {
+  color: var(--value-color);
+}
+.indent1 {
+  margin-left: 6ch;
+}
+.indent2 {
+  margin-left: 9ch;
+}
+.indent3 {
+  margin-left: 14ch;
+}

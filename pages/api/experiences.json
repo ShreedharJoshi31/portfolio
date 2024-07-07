@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Software Developer",
+    "company": "Territorial Army Project",
+    "description": [
+      "Developed PHP software to streamline administrative tasks for the Territorial Army.",
+      "Collaborated with military personnel to gather requirements and ensure the software met their needs.",
+      "Implemented user authentication and role-based access control to secure sensitive information.",
+      "Provided training and support to end-users, enhancing their ability to effectively utilize the new software."
+    ]
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Bot2Do Technologies",
+    "description": [
+      "Developed advanced web applications using the MERN stack, Next.js, and TypeScript, integrating third-party APIs to enhance functionality.",
+      "Developed and maintained server-side applications using Node.js, and designed and implemented RESTful APIs to enhance backend services.",
+      "Improved application performance by resolving bugs, maintaining documentation, and utilizing Strapi CMS and Git for efficient development and project management."
+    ]
+  },
+  {
+    "title": "Devops Intern",
+    "company": "Bot2Do Technologies",
+    "description": [
+      "Managed cloud infrastructure on AWS, GCP, and Azure, focusing on security, billing, and architecture data.",
+      "Developed automation scripts using Boto3 for efficient handling of infrastructure tasks.",
+      "Utilized Docker for containerization, ensuring scalable and reliable application deployments."
+    ]
+  },
+  {
+    "title": "ML Developer",
+    "company": "HyperBoost AI Solutions PVT. LTD.",
+    "description": [
+      "Developed advanced AI systems, improving forecasting capabilities and streamlining automated content creation.",
+      "Crafted intuitive and interactive user interfaces, streamlining the deployment and utilization of AI models for diverse user groups."
+    ]
+  },
+  {
+    "title": "MERN Stack Developer Intern",
+    "company": "Softwave Solutions",
+    "description": [
+      "Directed the development of dynamic websites using the MERN stack, improving overall application efficiency significantly.",
+      "Led development of key features using React and Node.js/Express.js, boosting user interaction. Optimized MongoDB databases to improve app speed and usability."
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Heritage explorer",
+    "image": "/HeritageExplorer.png",
+    "description": "A platform for exploring and booking visits to historical sites around Maharashtra.",
+    "tags": ["react", "node", "mongodb", "express", "razorpay", "python"],
+    "source_code": "https://github.com/ShreedharJoshi31/heritage-explorer",
+    "demo": "https://heritage-explorer-31.netlify.app/home"
+  },
+  {
+    "id": 2,
+    "name": "Buzz Chat",
+    "image": "/BuzzChat.png",
+    "description": "A chat application which provided one-to-one and one-to-many chat options.",
+    "tags": ["react", "node", "mongodb", "express", "socketio", "chakra-ui"],
+    "source_code": "https://github.com/ShreedharJoshi31/BuzzChat"
+  },
+  {
+    "id": 3,
+    "name": "Slot Savant",
+    "image": "/SlotSavant.png",
+    "description": "Project under Intel which is a car parking system which verifies the entries, maintains logs, generates insights and shows realtime parking lot activity.",
+    "tags": ["python", "react", "node", "mongodb", "redux", "express"],
+    "source_code": "https://github.com/ShreedharJoshi31/slot-savant"
+  },
+  {
+    "id": 4,
+    "name": "Client Connect",
+    "image": "/ClientConnect.png",
+    "description": "Your all-in-one customer management solution. Seamlessly store and update client data, send bulk emails effortlessly, and access conversation history at your fingertips.",
+    "tags": ["react", "node", "mongodb", "express"],
+    "source_code": "https://github.com/ShreedharJoshi31/client-connect"
+  }
+]
