@@ -1,27 +1,17 @@
 import { useEffect, useState } from "react";
 // import styles from "../styles/ExperiencePage.module.css";
 import HighlightedJSON from "../components/HighlightedJSON";
+import { getExperiences } from "./api/experiences";
 
-const ExperiencePage = () => {
-  const [experiences, setExperiences] = useState([]);
-
-  useEffect(() => {
-    const fetchExperiences = async () => {
-      const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/experiences`);
-
-      const data = await res.json();
-      setExperiences(data);
-    };
-
-    fetchExperiences();
-  }, []);
-
+const ExperiencePage = ({ experiences }) => {
   return <HighlightedJSON data={experiences} />;
 };
 
 export async function getStaticProps() {
+  const experiences = getExperiences();
+
   return {
-    props: { title: "Experiences" },
+    props: { title: "Experiences", experiences },
   };
 }
 
