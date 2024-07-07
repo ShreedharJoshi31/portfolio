@@ -3,7 +3,7 @@ import styles from "../styles/ContactCode.module.css";
 const contactItems = [
   {
     social: "website",
-    link: "https://shreedhar-portfolio.vercel.app/",
+    link: "shreedhar-portfolio.vercel.app",
     href: "https://shreedhar-portfolio.vercel.app/",
   },
   {
