@@ -22,7 +22,7 @@ export default function HomePage() {
               onClick={(e) => {
                 e.preventDefault();
                 window.open(
-                  "https://drive.google.com/file/d/1NtPuZ4WuX9XR9_ttDbLLiXoCfOWWpVZL/view",
+                  "https://drive.google.com/file/d/1GeIskDdn7cWDDWR_tjRURrUhl9z7fVYp/view?usp=sharing",
                   "_blank",
                   "noopener,noreferrer"
                 );

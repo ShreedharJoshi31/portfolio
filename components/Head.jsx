@@ -21,7 +21,10 @@ const CustomHead = ({ title }) => {
         property="og:image"
         content="https://imgur.com/your-image-url.png"
       />
-      <meta property="og:url" content="https://your-portfolio-url.com" />
+      <meta
+        property="og:url"
+        content="https://shreedhar-portfolio.vercel.app/"
+      />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
