@@ -1,38 +1,29 @@
 [
   {
-    "title": "Software Developer",
-    "company": "Territorial Army Project",
-    "description": [
-      "Developed PHP software to streamline administrative tasks for the Territorial Army.",
-      "Collaborated with military personnel to gather requirements and ensure the software met their needs.",
-      "Implemented user authentication and role-based access control to secure sensitive information.",
-      "Provided training and support to end-users, enhancing their ability to effectively utilize the new software."
-    ]
-  },
-  {
-    "title": "Full Stack Developer",
-    "company": "Bot2Do Technologies",
-    "description": [
-      "Developed advanced web applications using the MERN stack, Next.js, and TypeScript, integrating third-party APIs to enhance functionality.",
-      "Developed and maintained server-side applications using Node.js, and designed and implemented RESTful APIs to enhance backend services.",
-      "Improved application performance by resolving bugs, maintaining documentation, and utilizing Strapi CMS and Git for efficient development and project management."
-    ]
-  },
-  {
-    "title": "Devops Intern",
-    "company": "Bot2Do Technologies",
-    "description": [
-      "Managed cloud infrastructure on AWS, GCP, and Azure, focusing on security, billing, and architecture data.",
-      "Developed automation scripts using Boto3 for efficient handling of infrastructure tasks.",
-      "Utilized Docker for containerization, ensuring scalable and reliable application deployments."
-    ]
-  },
-  {
-    "title": "ML Developer",
+    "title": "SDE Intern",
     "company": "HyperBoost AI Solutions PVT. LTD.",
     "description": [
-      "Developed advanced AI systems, improving forecasting capabilities and streamlining automated content creation.",
-      "Crafted intuitive and interactive user interfaces, streamlining the deployment and utilization of AI models for diverse user groups."
+      "Engineered a comprehensive platform tailored for legal professionals, optimizing their entire workflow from in-depth research to seamless document drafting enhancing efficiency and productivity across legal tasks.",
+      "Streamlined legal document handling processes, reducing translation time by 50 and improving overall productivity.",
+      "Created a document translator that converts case files from regional languages to English, improving accessibility and efficiency for lawyers by 3x."
+    ]
+  },
+  {
+    "title": "Full Stack Developer Intern",
+    "company": "Bot2Do Technologies",
+    "description": [
+      "Developed automation software for a manufacturing company, increasing production efficiency by 3x and improving quality assurance accuracy by 2x.",
+      "Integrated ZAP and K6 services into the company’s automated testing platform, improving security vulnerability detection by 40% and performance testing efficiency by 30%.",
+      "Optimized the AI recommendation engine, resulting in a 1.5x increase in user engagement and a 1.25x rise in sales."
+    ]
+  },
+  {
+    "title": "Software Developer Intern",
+    "company": "Territorial Army Project",
+    "description": [
+      "Developed an Infantry Management System, digitalizing processes from leave letters to mails sent to higher ranks, resulting in a 3x increase in administrative efficiency.",
+      "Streamlined the letter approval and management process, leading to a 2x improvement in processing speed and reducing errors by 1.5x.",
+      "Facilitated multi-level approval workflows, improving communication and reducing processing times by 50%."
     ]
   },
   {
