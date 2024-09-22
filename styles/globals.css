@@ -34,27 +34,33 @@
   background: rgba(67, 153, 52, 0.25);
 }
 
+.typescript,
 .redux {
   border: 0.1rem solid rgb(118, 74, 188);
 }
+.typescript:hover,
 .redux:hover {
   background: rgba(118, 74, 188, 0.25);
 }
 
 .razorpay,
+.mysql,
 .socketio {
   border: 0.1rem solid rgb(82, 143, 240);
 }
 .razorpay:hover,
+.mysql:hover,
 .socketio:hover {
   background: rgba(82, 143, 240, 0.25);
 }
 
 .material-ui,
+.prisma,
 .chakra-ui {
   border: 0.1rem solid rgb(25, 118, 210);
 }
 .material-ui:hover,
+.prisma:hover,
 .chakra-ui:hover {
   background: rgba(25, 118, 210, 0.25);
 }
