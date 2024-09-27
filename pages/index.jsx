@@ -8,7 +8,7 @@ export default function HomePage() {
       <div className={styles.container}>
         <div className={styles.background}>
           <h1>I BUILD</h1>
-          <h1>SOFTWARE</h1>
+          <h1>WEBSITES</h1>
         </div>
         <div className={styles.foreground}>
           <div className={styles.content}>
@@ -22,7 +22,7 @@ export default function HomePage() {
               onClick={(e) => {
                 e.preventDefault();
                 window.open(
-                  "https://drive.google.com/file/d/1GeIskDdn7cWDDWR_tjRURrUhl9z7fVYp/view?usp=sharing",
+                  "https://drive.google.com/file/d/1DVLafITKagIcP4pzJF9ZuddLN6rDBZ0h/view?usp=sharing",
                   "_blank",
                   "noopener,noreferrer"
                 );
