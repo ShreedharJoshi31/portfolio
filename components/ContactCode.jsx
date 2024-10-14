@@ -18,8 +18,8 @@ const contactItems = [
   },
   {
     social: "linkedin",
-    link: "shreedhar-joshi-522119237",
-    href: "https://www.linkedin.com/in/shreedhar-joshi-522119237/",
+    link: "shreedharjoshi03",
+    href: "https://www.linkedin.com/in/shreedharjoshi03",
   },
   {
     social: "instagram",
