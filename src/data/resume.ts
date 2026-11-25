@@ -67,6 +67,15 @@ export const projects = [
     links: [{ label: "GitHub", href: "https://github.com/ShreedharJoshi31/dbscope" }],
   },
   {
+    name: "Rowfall",
+    status: "Open source",
+    kind: "Go + React",
+    description:
+      "Multiplayer strategy game you play by writing SQL. Each player writes one SELECT (their **brain**), and every two seconds the server runs it against Postgres views of a shared 64×64 world, as that player's own **read-only Postgres role** with a 150 ms limit. Each returned row is an order for a unit: move, mine, deposit, attack or build. Fog of war, a public leaderboard, and every brain is readable by other players.",
+    tags: ["Go", "React", "Vite", "PostgreSQL", "Better Auth"],
+    links: [{ label: "GitHub", href: "https://github.com/ShreedharJoshi31/rowfall" }],
+  },
+  {
     name: "Infantry Management Software",
     status: "Internal",
     kind: "Indian Territorial Army",

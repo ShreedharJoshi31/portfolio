@@ -178,7 +178,7 @@ export default function Home() {
             kicker="Selected work"
             meta={`${projects.length} projects`}
             title="From internal tools to developer tooling."
-            sub="A database workbench, an administration system for the Indian Territorial Army, and a heritage booking site."
+            sub="A database workbench, a multiplayer game played in SQL, an administration system for the Indian Territorial Army, and a heritage booking site."
           />
           <ol className="mt-14 border-t border-border">
             {projects.map((p, i) => (
