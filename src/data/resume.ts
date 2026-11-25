@@ -85,6 +85,15 @@ export const projects = [
     links: [],
   },
   {
+    name: "Slot Savant",
+    status: "Open source",
+    kind: "Python + React",
+    description:
+      "Vehicle movement analysis system for parking lots. **Automatic number plate recognition** with OpenCV logs every entry and exit, verifies vehicles against a registration database before entry, tracks **real-time slot availability**, and gives administrators usage insights behind authenticated access.",
+    tags: ["Python", "OpenCV", "React", "Node.js", "Express", "MongoDB"],
+    links: [{ label: "GitHub", href: "https://github.com/ShreedharJoshi31/slot-savant" }],
+  },
+  {
     name: "Heritage Explorer",
     status: "Live",
     kind: "Web app",
