@@ -37,9 +37,7 @@ export const experience = [
         bullets: [
           "Built and owned core product modules (**research, case management, translation, meeting assistant**) used by **50,000+ lawyers**, across a Next.js frontend, a Go backend and Python AI services, event-driven via **AWS SNS/SQS**; designed the app's **Redux state architecture**.",
           "Made models and prompts **configurable per step across 54 AI workflow recipes**: per-run overrides scoped with Python contextvars so concurrent runs stay isolated, checks that reject a bad model name or prompt before any paid LLM call, a recipe linter, and per-block cost and token logging to AWS Athena.",
-          "Owned the **Razorpay subscription lifecycle** end-to-end (Go + checkout UI): tiered plans, offer and referral codes, invoicing, webhooks, mandate-cancellation handling, and an admin **price-migration tool** that re-prices every plan in one transaction while keeping existing subscribers on their old price.",
-          "Automated tenant provisioning (AWS CodeBuild + DynamoDB registry), org/role management with Auth0 user provisioning, and org-level access pause enforced in Go middleware.",
-        ] as Bullet[],
+          "Owned the **Razorpay subscription lifecycle** end-to-end (Go + checkout UI): tiered plans, offer and referral codes, invoicing, webhooks, mandate-cancellation handling, and an admin **price-migration tool** that re-prices every plan in one transaction while keeping existing subscribers on their old price.",        ] as Bullet[],
       },
       {
         name: "NyayTrademark (IP Docket)",
